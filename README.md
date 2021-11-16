@@ -1,1 +1,1 @@
-# online-offers-detector
+# Online Offers Detector
