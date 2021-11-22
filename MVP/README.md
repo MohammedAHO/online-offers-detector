@@ -1,0 +1,1 @@
+This is an MVP of our project (Online Offers Detector). We utilized python files in https://towardsdatascience.com/get-started-with-deep-learning-ocr-136ac645db1d after modifications to suit our need in this project.
